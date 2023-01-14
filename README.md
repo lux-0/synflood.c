@@ -44,7 +44,7 @@ On Ubuntu:
 ```bash
 sudo apt update
 sudo apt install build-essential libpcap-dev -y
-git clone https://github.com/Hypro999/synflood.c.git synflood/
+git clone https://github.com/lux-0/synflood.c.git synflood/
 cd synflood/
 make
 ```
